@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">refrigerator</string>
+    <string name="app_name">냉장고 쏙</string>
+    <string name="vegetables">vegetables</string>
+    <string name="seafood">seafood</string>
+    <string name="freshFood">freshFood</string>
+    <string name="frozenFood">frozenFood</string>
+    <string name="fruits">fruits</string>
+    <string name="grainNuts">grainNuts</string>
+    <string name="meat">meat</string>
+    <string name="refrigeratedFood">refrigeratedFood</string>
+    <string name="roomTemperatureFood">roomTemperatureFood</string>
+    <string name="etc">etc</string>
 </resources>

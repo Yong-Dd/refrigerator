@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247879988932",
+    "project_id": "refrigerator-172d4",
+    "storage_bucket": "refrigerator-172d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247879988932:android:472bb450d86f63da9dbb91",
+        "android_client_info": {
+          "package_name": "com.yongdd.refrigerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdEYDMd4duWwXcwLzR04PfL18tc-BYoGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
